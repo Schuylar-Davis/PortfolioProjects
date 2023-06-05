@@ -1,4 +1,4 @@
-## API: https://gitlab.com/dword4/nhlapi/-/blob/master/swagger/openapi.yaml?fbclid=IwAR3v-roJ8tZBtVvBuf2ripO-F72H-k8J_monxzeftpqVR9hZjzB-7jbehTg
+# API: https://gitlab.com/dword4/nhlapi/-/blob/master/swagger/openapi.yaml?fbclid=IwAR3v-roJ8tZBtVvBuf2ripO-F72H-k8J_monxzeftpqVR9hZjzB-7jbehTg
 
 import requests
 # f = open("nhl_height.csv","w")
